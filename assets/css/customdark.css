@@ -1,0 +1,131 @@
+/*** the custom dark ***/
+
+body {
+    background-color: #343A40;
+    color: #bcc3ce;
+}
+
+.section .section-header {
+    background-color: #474D51;
+}
+
+.card, .modal-content {
+    background-color: #474D51;
+}
+
+.main-sidebar {
+    background-color: #474D51;
+}
+
+.summary .summary-info, .alert .alert-light {
+    background-color: #41474A;
+}
+
+.alert .alert-light{
+    background-color: #41474A;
+}
+
+.section-header h1, .card-header h4 {
+    color: #C8E3FF !important;
+}
+
+.navbar-bg {
+    background-color: #2F62AD;
+}
+
+.card-header, .media {
+    border-bottom-color: #545A5D !important;
+}
+
+.media .media-title, .form-group > label, .card-body{
+    color: #E3E5E7 !important;
+}
+
+.form-control, .form-control-sm, .custom-select, .input-group-text, .custom-file-label, .select1 option {
+    background-color: #41474A;
+    border-color: #545A5D;
+    color: #C3C5C7;
+}
+
+.form-control:focus,
+.form-control-sm:focus,
+.input-group-text:focus,
+.custom-select:focus,
+.custom-file-label:focus {
+    background-color: #545A5D;
+    border-color: #737577;
+    color: #E3E5E7;
+}
+
+.selectgroup-button {
+    background-color: #41474A;
+}
+
+.section .section-title, .alert-title {
+    color: #C3C5C7;
+}
+
+.bg-whitesmoke {
+    background-color: #545A5D !important;
+}
+
+aside > ul > li {
+    color: #C8E3FF !important;
+}
+
+aside > ul > li > a.nav-link {
+    color: #bcc3ce !important;
+}
+
+aside > ul > li > a.nav-link:hover {
+    color: #C8E3FF !important;
+    background-color: #41474A !important;
+}
+
+aside > ul > li.active > a.nav-link {
+    background-color: #41474A !important;
+}
+
+.alert {
+    background-color: #41474A !important;
+}
+
+blockquote {
+    background-color: #41474A !important;
+    color: #969aa0 !important;
+}
+
+.selectgroup > .selectgroup-item > .selectgroup-button {
+    border-color: #545A5D;
+}
+
+nav > ul.navbar-nav > li.dropdown > .dropdown-menu {
+    background-color: #545A5D !important;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: #41474A;
+    color: #c3c4c6 !important;
+}
+
+.tooltip-inner {
+    background-color: #C8E3FF;
+    color: #41474A;
+}
+
+.popover {
+    background: #f3f4f6;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(220, 220, 220, 0.08);
+}
+
+.table-responsive {
+    box-shadow: 0 4px 8px rgba(220, 220, 220, 0.08);
+    border-radius: 3px;
+    border-top: 2px solid #bcc1c6;
+    background-color: #969aa0;
+    color: #41474A;
+    margin-bottom: 16px;
+}
